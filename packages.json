@@ -1,0 +1,23 @@
+[
+  {
+    "package": "deneggs",
+    "url": "https://github.com/fdzul/deneggs"
+  },
+  {
+    "package": "denhotspots",
+    "url": "https://github.com/fdzul/denhotspots"
+  },
+  {
+    "package": "rgeomex",
+    "url": "https://github.com/fdzul/rgeomex"
+  },
+  {
+    "package": "densnv",
+    "url": "https://github.com/fdzul/densnv"
+  },
+  {
+    "package": "popmex",
+    "url": "https://github.com/fdzul/popmex"
+  }
+ 
+]
