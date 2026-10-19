@@ -34,5 +34,9 @@
   {
     "package": "similiars",
     "url": "https://github.com/davidsjoberg/similiars"
+  },
+  {
+    "package": "knox",
+    "url": "https://github.com/fdzul/knox"
   }
 ]
