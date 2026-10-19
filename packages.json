@@ -1,23 +1,38 @@
 [
   {
-    "package": "deneggs",
-    "url": "https://github.com/fdzul/deneggs"
-  },
-  {
     "package": "denhotspots",
     "url": "https://github.com/fdzul/denhotspots"
   },
   {
-    "package": "rgeomex",
-    "url": "https://github.com/fdzul/rgeomex"
+    "package": "deneggs",
+    "url": "https://github.com/fdzul/deneggs"
   },
   {
     "package": "densnv",
     "url": "https://github.com/fdzul/densnv"
   },
   {
+    "package": "rgeomex",
+    "url": "https://github.com/fdzul/rgeomex"
+  },
+  {
     "package": "popmex",
     "url": "https://github.com/fdzul/popmex"
+  },
+  {
+    "package": "boldenr",
+    "url": "https://github.com/fdzul/boldenr"
+  },
+  {
+    "package": "denguedatasets",
+    "url": "https://github.com/fdzul/denguedatasets"
+  },
+  {
+    "package": "ppmData",
+    "url": "https://github.com/skiptoniam/ppmData"
+  },
+  {
+    "package": "similiars",
+    "url": "https://github.com/davidsjoberg/similiars"
   }
- 
 ]
