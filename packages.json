@@ -58,9 +58,5 @@
   {
     "package": "vectoRcontrol",
     "url": "https://github.com/fdzul/vectoRcontrol"
-  },
-  {
-    "package": "denguedatasets",
-    "url": "https://github.com/fdzul/denguedatasets"
   }
 ]
