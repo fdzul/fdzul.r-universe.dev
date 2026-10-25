@@ -38,5 +38,29 @@
   {
     "package": "knox",
     "url": "https://github.com/fdzul/knox"
+  },
+  {
+    "package": "denepikit",
+    "url": "https://github.com/fdzul/denepikit"
+  },
+  {
+    "package": "sinave",
+    "url": "https://github.com/fdzul/sinave"
+  },
+  {
+    "package": "epifeatures",
+    "url": "https://github.com/fdzul/epifeatures"
+  },
+  {
+    "package": "ewarsmx",
+    "url": "https://github.com/fdzul/ewarsmx"
+  },
+  {
+    "package": "vectoRcontrol",
+    "url": "https://github.com/fdzul/vectoRcontrol"
+  },
+  {
+    "package": "denguedatasets",
+    "url": "https://github.com/fdzul/denguedatasets"
   }
 ]
